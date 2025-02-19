@@ -13,7 +13,7 @@
 **Tools:** Git, Docker, Firebase, AWS  
 
 ## 🌟 Featured Projects
-- **[Aash](https://github.com/Ramla-r4/aash)** – An educational platform for CS students.
+- **[Aash](https://ramla-r4.github.io/)** – An educational platform for CS students.
 - **[Movio](https://github.com/Ramla-r4/Movio)** –An AI-powered movie recommendation system using NLP and BERT embeddings.
 - **[Notifynest](https://github.com/Ramla-r4/NotifyNest)** –A Django-based web application for tracking tasks and scheduling reminders with email notifications.
 - **[Food-Rescue](https://github.com/Ramla-r4/Food-Rescue-)** –A Flutter mobile app for users to donate to various causes.
